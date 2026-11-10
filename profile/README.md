@@ -21,7 +21,7 @@ One API for **190+ AI models** at [ai.aunuhost.bond](https://ai.aunuhost.bond): 
 Our open-source WhatsApp automation library for Node.js — a clean, transparent competitor to upstream Baileys, with StickerPack & album messages, rich-message builders, and a built-in anti-ban layer.
 - npm: [`aunubaileys`](https://www.npmjs.com/package/aunubaileys)
 - Docs: [docsjs.aunucore.eu.cc](https://docsjs.aunucore.eu.cc)
-- Repo: [AunuBaileys-lib](https://github.com/AunuHost/AunuBaileys-lib)
+- Repo: [AunuBaileys-lib](https://github.com/AunuCore/AunuBaileys-lib)
 
 ### More from the network
 - **Minecraft plugins** and game content
